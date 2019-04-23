@@ -49,7 +49,7 @@ Caso queira adicionar algum link é só abrir um Pull request!**   :wink:
 
 ## Treinos para olimpíadas nacionais ##
 * [GRUPRO UFBA](http://wiki.dcc.ufba.br/GRUPROtmp/TrainingBasic)
-* [OBI com pseudolingaguem](https://github.com/potigol/OBI)
+* [OBI com Potigol](https://github.com/potigol/OBI)
 * [OBI](https://travis-ci.org/felipemfp/obi)
 
 ## Certificações ##
