@@ -61,4 +61,4 @@ Caso queira adicionar algum link é só abrir um Pull request!**   :wink:
 * [ONU online volunteering](https://www.onlinevolunteering.org/en)
 
 ## Link para o slide da palestra (em PDF) ##
-encurtador.com.br/epAKQ
+* [Palestra](https://github.com/baiana/material-aprendizado-em-programacao/blob/master/SlideFrontendssa.pdf)
