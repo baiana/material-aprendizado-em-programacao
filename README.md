@@ -1,4 +1,4 @@
-# Material para auxiliar no aprendizado auto guiado em programação
+# Material para auxiliar no aprendizado em programação
 **Links mencionados na palestra "Desmistificando o autodidatismo" e pdf com o conteúdo da palestra.
 Caso queira adicionar algum link é só abrir um Pull request!**   :wink:
 
