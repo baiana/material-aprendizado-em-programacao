@@ -2,7 +2,7 @@
 **Links mencionados na palestra "Desmistificando o autodidatismo/Como aprender programação sozinha" e pdf com o conteúdo da palestra.
 Caso queira adicionar algum link é só abrir um Pull request!**   :wink:
 
-## Perfis no [Medium](http://www.google.fr/ "medium") e blogs##
+## Perfis no [Medium](http://www.google.fr/ "medium") e blogs ##
 * [Code Like a Girl](https://code.likeagirl.io/techtalk/home "Code Like a Girl")
 * [WomenWhoCode](https://code.likeagirl.io/techtalk/home "WomenWhoCode")
 * [FreeCodeCamp](https://medium.freecodecamp.org/ "FreeCodeCamp")
