@@ -5,6 +5,7 @@ Caso queira adicionar algum link é só abrir um Pull request!**   :wink:
 ## Perfis no [Medium](http://www.google.fr/ "medium") e blogs ##
 * [Code Like a Girl](https://code.likeagirl.io/techtalk/home "Code Like a Girl")
 * [WomenWhoCode](https://code.likeagirl.io/techtalk/home "WomenWhoCode")
+* [collabCode](https://medium.com/collabcode "collabcode")
 * [FreeCodeCamp](https://medium.freecodecamp.org/ "FreeCodeCamp")
 * [CoderByte](https://medium.com/coderbyte "CoderByte")
 * [Android Dev BR](https://medium.com/android-dev-br "android dev br")
@@ -25,6 +26,7 @@ Caso queira adicionar algum link é só abrir um Pull request!**   :wink:
 * [Code Academy](https://www.codecademy.com/pt-BR "Code Academy")
 * [Khan Academy](https://pt.khanacademy.org/computing/ "Khan Academy")
 * [Code.org](https://code.org "Code")
+* [Solo learning](https://www.sololearn.com/ "solo learn")
 * [Exercícios programmr](http://www.programmr.com/ "programmr")
 
 ## Desafios diários ##
@@ -47,6 +49,14 @@ Caso queira adicionar algum link é só abrir um Pull request!**   :wink:
 * databaseCast 
 * Learn to Code With Me
 
+## tutorias e roadmaps ##
+* [Git guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html "git")
+* [Compilado de recursos por linguagem](https://hackr.io/ "hackr")
+* [Roadmap Android Nativo](https://github.com/mobile-roadmap/android-developer-roadmap "android") 
+* [Roadmap game developer](https://codeburst.io/the-2018-game-developer-roadmap-e07e45b3c423 "game developer")
+* [Roadmap desenvolvedora python](https://hackernoon.com/a-realistic-roadmap-to-becoming-a-python-developer-ab5872959509 "python")
+* [Roadmap Web developer](https://github.com/kamranahmedse/developer-roadmap "web")
+* [Roadmap FullStack](http://medium.com/codingthesmartway-com-blog/the-2019-roadmap-to-fullstack-web-dev "fullstack")
 
 ## Contibuindo em projetos da comunidade ##
 * [Frontend BR]( https://github.com/frontendbr/open-source/issues)
