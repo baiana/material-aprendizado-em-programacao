@@ -2,7 +2,7 @@
 **Links mencionados na palestra "Desmistificando o autodidatismo/Como aprender programação sozinha" e pdf com o conteúdo da palestra.
 Caso queira adicionar algum link é só abrir um Pull request!**   :wink:
 
-## Perfis no [Medium](http://www.google.fr/ "medium") ##
+## Perfis no [Medium](http://www.google.fr/ "medium") e blogs ##
 * [Code Like a Girl](https://code.likeagirl.io/techtalk/home "Code Like a Girl")
 * [WomenWhoCode](https://code.likeagirl.io/techtalk/home "WomenWhoCode")
 * [FreeCodeCamp](https://medium.freecodecamp.org/ "FreeCodeCamp")
@@ -11,6 +11,7 @@ Caso queira adicionar algum link é só abrir um Pull request!**   :wink:
 * [Tableless](https://medium.com/tableless "tableless")
 * [GrupyRN](https://medium.com/grupy-rn "grupy")
 * [Harvard Bussines Review](https://hbr.org/ "hbr")
+* [Learn to code with me](https://learntocodewith.me/) 
 
 ## Cursos "Oficiais" ##
 * [Mozilla](https://learning.mozilla.org/en-US/activities "Mozilla")
@@ -33,6 +34,19 @@ Caso queira adicionar algum link é só abrir um Pull request!**   :wink:
 * [30 dias de UX](https://www.userfocus.co.uk/pdf/30daysofux.pdf)
 * [30 dias de UI](http://www.thirtyui.com/)
 * [30 dias de testes](https://dojo.ministryoftesting.com/dojo/series/30-days-of-testing)
+
+## Podcasts ##
+* Syntax.fm
+* Code Newbie
+* Javascript Air
+* All Javascript Podcasts
+* JS Party
+* PodProgramar
+* PodTag
+* hipster.tech
+* databaseCast 
+* Learn to Code With Me
+
 
 ## Contibuindo em projetos da comunidade ##
 * [Frontend BR]( https://github.com/frontendbr/open-source/issues)
